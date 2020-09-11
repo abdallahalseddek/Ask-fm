@@ -1,2 +1,3 @@
 # Ask-fm
-preview of Main page https://github.com/abdallahalseddek/Ask-fm/blob/master/first-page-preview.png
+## preview of Main page
+[!first-page] first-page-preview.png
