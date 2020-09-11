@@ -1,3 +1,3 @@
 # Ask-fm
-## preview of Main page
+## preview of First page
 ![first-page](first-page-preview.png)
