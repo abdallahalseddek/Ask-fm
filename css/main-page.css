@@ -12,6 +12,9 @@ text-align:center;
 height:300px;
  overflow:hidden;
  }
+.logo img{
+     width: 140px;
+ }
 .info{margin:10px;}
 .info p {
 color:white;
